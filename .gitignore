@@ -1,0 +1,9 @@
+# Ignore data folder containing large pickle files
+data/
+
+# Ignore log files
+logs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
