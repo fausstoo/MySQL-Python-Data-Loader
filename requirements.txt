@@ -3,4 +3,7 @@ mysql-connector-python
 sqlalchemy
 ipykernel
 polars
+pymysql
+cryptography
+
 -e .

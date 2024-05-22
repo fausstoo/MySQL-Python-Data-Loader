@@ -1,10 +1,11 @@
 import os
 import pandas as pd
 from sqlalchemy import create_engine
-from database import db_config 
+from database import db_config
 from exception import CustomException
 import logging
 from logger import logging
+import sys
 
 class DataLoader:
     def __init__(self, db_config, data_folder):
