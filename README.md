@@ -6,22 +6,22 @@ This project involves setting up a data loading pipeline that reads data from pi
 
 ## Project Structure
 
-Booking_Data_Pipeline/
-│
-├── src/
-│ ├── database.py
-│ ├── data_loader.py
-│ ├── exception.py
-│ ├── logger.py
-│ └── main.py
-│
-├── data/ (contains .pkl files)
-│
-├── logs/ (contains log files)
-│
-├── requirements.txt
-│
-└── README.md
+Booking_Data_Pipeline/ \
+│ \
+├── src/ \
+│ ├── database.py \
+│ ├── data_loader.py \
+│ ├── exception.py \
+│ ├── logger.py \
+│ └── main.py \
+│ \
+├── data/ (contains .pkl files) \
+│ \
+├── logs/ (contains log files) \
+│ \
+├── requirements.txt \
+│ \
+└── README.md \
 
 ## Setup Instructions
 
