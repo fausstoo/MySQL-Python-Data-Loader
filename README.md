@@ -21,7 +21,7 @@ Booking_Data_Pipeline/ \
 │ \
 ├── requirements.txt \
 │ \
-└── README.md \
+└── README.md 
 
 ## Setup Instructions
 
