@@ -10,8 +10,8 @@ class DatabaseConfig:
 
 db_config = DatabaseConfig(
     user='root',
-    password='123456Fa$$',
+    password='your-database-password',
     host='localhost',
     port=3306,
-    database='booking_data'
+    database='your-created-mysql-database'
 )
